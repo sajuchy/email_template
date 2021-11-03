@@ -1,1 +1,1 @@
-# email_template
+https://sajuchy.github.io/email_template/
